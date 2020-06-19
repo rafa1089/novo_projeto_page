@@ -1,8 +1,6 @@
 ## Hornet 600 cc
 
-You can use the [editor on GitHub](https://github.com/rafa1089/novo_projeto_page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+YQueridinha entre os apaixonados por motociclismo, a Honda Hornet, com seus 20 anos de história, tem hoje uma legião de fãs que acompanham todas as novidades da motocicleta mais popular da Honda.
 
 ### Markdown
 
