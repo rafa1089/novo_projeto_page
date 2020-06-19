@@ -1,6 +1,6 @@
-## Hornet 600 cc
+<h1>Hornet 600 c</h1>
 
-Queridinha entre os apaixonados por motociclismo, a Honda Hornet, com seus 20 anos de história, tem hoje uma legião de fãs que acompanham todas as novidades da motocicleta mais popular da Honda.
+A mais querida entre os apaixonados por motociclismo, a Honda Hornet, com seus 20 anos de história, tem hoje uma legião de fãs que acompanham todas as novidades da motocicleta mais popular da Honda.
 
 ### Markdown
 
