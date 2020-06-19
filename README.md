@@ -28,7 +28,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://www.youtube.com/watch?v=ef30y6Z94Ho).
+For more details see [video da historia e evolução da hornet](https://www.youtube.com/watch?v=ef30y6Z94Ho).
 
 ### Jekyll Themes
 
